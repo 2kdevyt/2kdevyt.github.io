@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Xeon's website
 
-You can use the [editor on GitHub](https://github.com/XeonUser/xeonuser.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my website, I am still heavily working on it, but here it is! Using a theme from GitHub Pages lol
 
 ### Markdown
 
